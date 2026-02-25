@@ -45,6 +45,12 @@
       <excludeFolder url="file://$MODULE_DIR$/upi/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/upi/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/upi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/aaa/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/aaa/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/aaa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/news_apk/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/news_apk/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/news_apk/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
